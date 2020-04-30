@@ -31,7 +31,7 @@
     "datatables.net-bs4": "^1.10.20",
     "datatables.net-dt": "^1.10.20",
     "eva-icons": "^1.1.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ngx-place-picker": "0.0.2",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
